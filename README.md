@@ -6,6 +6,9 @@
 
 ---
 
+![The Garage at Bagnolet](garage-des-fetes.jpg)
+
+
 The streets are burning. Students are throwing paving stones at riot police in the Latin Quarter.
 
 De Gaulle is nervous. And somewhere in this chaos, the English team has rolled into Bagnolet in a transit van towing their best car, looking for glory — and whatever else falls their way.

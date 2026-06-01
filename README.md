@@ -1,5 +1,5 @@
 # READY, STEADY, GO!
-### A Forged in the Dark Game of Fast Cars, Faster Fists, and Faster Talk
+### A Forged in the Dark Game of Fists, Fast Cars, and Faster Talk
 #### Paris, May 1968
 
 #### Bob Carpenter (with help from Claude)
@@ -10,7 +10,7 @@ The streets are burning. Students are throwing paving stones at riot police in t
 
 De Gaulle is nervous. And somewhere in this chaos, the English team has rolled into Bagnolet in a transit van towing their best car, looking for glory — and whatever else falls their way.
 
-The **Roi de Paris** illegal circuit race is the prize everyone can see. What nobody knows yet is that the real prize has been hidden in this city since the war.
+The **Roi de Paris** [King of Paris] illegal circuit race is the prize everyone can see. What nobody knows yet is that the real prize has been hidden in this city since the war.
 
 ---
 
@@ -29,11 +29,13 @@ Your special armor protects you against being caught, cornered, or run off the r
 
 **Choose one special ability:**
 
-- **FLAT OUT** — Mark 1–2 stress to push a vehicle beyond its limits: outrun anything, thread any gap, hold any line. Each stress you mark improves your effect by one level.
-- **HEEL AND TOE** — You always act first in a chase or race, and you can react to sudden road hazards without rolling.
-- **SLIPSTREAM** — When you set up another driver by getting ahead of them and creating an opening, they get +1 effect on their following roll.
-- **COOL HEAD** — You ignore the first consequence of a crash or collision each scene.
-
+- **HEEL AND TOE** — You always act first in a chase or race.
+- **IN THE GROOVE** — When you repeat the same route, circuit, or type of road you've driven before, you get +1 effect on all Manoeuvre rolls. You learn fast and you remember everything.
+- **RABBIT** — When someone is chasing you, they must always roll at one position worse than they otherwise would (controlled becomes risky, risky becomes desperate).
+- **DRAFTING** — When you're running in a pack, you're in your element. When another vehicle is directly ahead of you, you get +1d on Manoeuvre rolls to overtake, follow, or stay with them.
+- **BLINDSPOT** — You have an instinct for when you're being followed or watched from a vehicle. You always know, without rolling, whether you have a tail. Acting on that knowledge still requires a roll.
+- **MECHANICAL SYMPATHY** — You can always tell what a vehicle can and can't do just by driving it for a minute. You never overestimate a car's limits, and you never need to roll to understand what it's capable of — only to push it there.
+- **LATE BRAKER** — You get +1 effect on any Manoeuvre roll made at desperate position. The worse it looks, the better you drive.
 ---
 
 ### MECHANIC
@@ -46,10 +48,12 @@ Your special armor protects you against equipment failure, sabotage, and anythin
 **Choose one special ability:**
 
 - **JURY RIG** — You can tick a segment on a repair or prep clock with **limited** effect just by looking at something and describing what you'd do. Doing it for real takes time and tools.
-- **BOOSTED** — When you spend downtime prepping a vehicle, mark 1–4 stress during that session to give it +1 effect on any one Action the team names in advance (speed, handling, durability, disguise, etc.).
+- **BOOSTED** — When you spend a downtime action working on a vehicle, tick two extra segments on any prep or improvement clock for that vehicle.
 - **STRIPPED DOWN** — You can declare that a vehicle has a hidden modification — a concealed compartment, a ram bar, a second fuel tank — once per session, after the fact.
 - **SPANNER** — +1d when fighting with improvised weapons or tools, or when breaking something on purpose.
-
+- **DIAGNOSTIC** — You can always tell what's wrong with a vehicle, a device, or a mechanical system just by listening to it, watching it move, or putting your hands on it. You never need to roll to identify a problem — only to fix it.
+- **CANNIBALISE** — You can strip useful parts from one vehicle to benefit another. Declare what you're taking and what it'll do; the GM tells you what clock to tick to make it work.
+- **SABOTEUR** — +1 effect when you damage, disable, or tamper with someone else's vehicle or equipment. You know exactly where to cut.
 ---
 
 ### FIGHTER
@@ -63,8 +67,12 @@ Your special armor protects you against physical harm in a brawl, fight, or stan
 
 - **OVERWHELMING** — Mark 1–4 stress to add that many dice when using violence or the threat of it. Each stress mark adds +1d.
 - **HARD TARGET** — When someone attacks you, you may spend your special armor to force them to reroll and take the lower result.
-- **INTIMIDATE** — +1 effect when threatening someone with credible violence, even if you don't follow through.
-- **BRAWLER** — You can take harm in a fight on behalf of a teammate without rolling; they suffer no consequence and you take the hit.
+- **INTIMIDATE**— +1 effect when threatening someone with credible violence. This uses Presence, not Nerve — it's about making them believe you, not about being able to follow through.
+- **BODYGUARD** — When you protect a teammate, you roll with +1d. You were built for this.
+- **CROWD CONTROL** — When you're outnumbered, you don't suffer reduced effect just from numbers alone. Three men is the same as one to you until the situation becomes truly overwhelming.
+- **SWITCHBACK** — When someone gets the drop on you, you may spend 2 stress to immediately reverse the situation — you act first, they act second. The GM describes how you turn it around.
+- **CLEAN HANDS** — You can make violence look like an accident. When you want a fight to leave no obvious trace — no witnesses, no marks that say assault — you don't need a separate roll to cover it up. The Fixer still has to deal with people, but you handle the physical evidence yourself.
+
 
 ---
 
@@ -81,12 +89,14 @@ Your special armor protects you against being compromised, pressured, or caught 
 - **WELL CONNECTED** — Once per session, you may declare that you know someone useful in the current situation. They owe you, or you have something on them.
 - **READS THE ROOM** — You always know when someone is lying to you or hiding something. You may ask the GM one question about their true intentions and get a straight answer.
 - **CHARMING** — +1d when dealing with someone you've previously done a favour for, bought a drink for, or otherwise made feel good about you.
-
+- **THE MONEY** — Once per session, you can produce cash, a bribe, or a sweetener at exactly the right moment without it coming out of crew coin. It works. Don't ask where it came from.
+- **MULTILINGUAL** — You speak French, Italian, and German well enough to pass as a native. You never suffer a disadvantage from language barriers, and you get +1d when impersonating someone of another nationality.
+- **FACE** — You have a cover identity in Paris — a name, a story, a wardrobe, and one contact who'll back it up. You can step into this identity at any time. While in it, you cannot be connected to the crew unless someone already knows to look for you specifically.
 ---
 
 ## ATTRIBUTES & ACTIONS
 
-You have three Attributes. Each starts at 0, and you choose one to set at 1 during character creation.
+You have three Attributes. Choose two to set to 1 and one to set to 0.
 
 | Attribute | Actions |
 |-----------|---------|
@@ -111,8 +121,8 @@ You have three Attributes. Each starts at 0, and you choose one to set at 1 duri
 1. **Choose a playbook.** Note your starting Action and your special armor.
 2. **Choose a special ability** from your playbook list.
 3. **Choose an Attribute** and set it to 1. (The other two stay at 0.)
-4. **Choose one additional Action** beyond the one granted by your playbook.
-5. **Name your character.** Give them a look, a background, and a reason to be in Paris.
+4. **Choose two additional Actions** beyond the one granted by your playbook.
+5. **Name your character.** Give them a look and a *short* background.
 
 ---
 
@@ -199,7 +209,7 @@ When the crew works together on the same goal, players may **lead a group action
 
 This reflects the truth of group work: it's only as strong as the weakest link in the chain, and the best performer in the group is covering for someone.
 
-**Assist:** You may spend **1 stress** to give a teammate **+1d** on their roll.
+**Assist:** You may spend **2 stress** to give a teammate **+1d** on their roll.
 
 **Set Up:** Roll an Action to improve a teammate's position or increase the effect of their following roll.
 
@@ -296,8 +306,10 @@ A better stash means a better lifestyle and a more comfortable retirement. **1�
 
 ## SESSION END: ADVANCEMENT
 
+The XP track is 10 slots.
+
 Mark XP when:
-- You roll a **desperate action**.
+- You fail a roll.
 - At session's end, mark 1 XP for each:
   - You expressed your character's personality, background, or personal stakes.
   - You struggled with your vices or past.
@@ -311,7 +323,7 @@ Mark XP when:
 **When you fill your XP track**, take one benefit:
 - Raise an Attribute from 0 to 1.
 - Raise an Attribute from 1 to 2.
-- Mark a new Action.
+- Mark two new actions.
 
 ---
 

@@ -99,7 +99,7 @@ Your special armor protects you against being compromised, pressured, or caught 
 
 ## ATTRIBUTES & ACTIONS
 
-You have three Attributes. Choose two to set to 1 and one to set to 0.
+You have three Attributes.
 
 | Attribute | Actions |
 |-----------|---------|
@@ -122,10 +122,11 @@ You have three Attributes. Choose two to set to 1 and one to set to 0.
 ## CHARACTER CREATION
 
 1. **Choose a playbook.** Note your starting Action and your special armor.
-2. **Choose a special ability** from your playbook list.
-3. **Choose an Attribute** and set it to 1. (The other two stay at 0.)
+2. **Choose two special abilities** from your playbook list.
+3. **Choose two Attributes** and set them to 1. (The other one stays at 0.)
 4. **Choose two additional Actions** beyond the one granted by your playbook.
 5. **Name your character.** Give them a look and a *short* background.
+6. **Choose a vice/obsession/indulgence,** which you partake in to relieve stress and which may have consequences if you overdo it.
 
 ---
 

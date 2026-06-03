@@ -30,11 +30,11 @@ You get **MANOEUVRE** as your starting Action.
 
 Your special armor protects you against being caught, cornered, or run off the road when you're behind the wheel.
 
-**Choose one special ability:**
+**Choose two special abilities:**
 
 - **HEEL AND TOE** — You always act first in a chase or race.
 - **IN THE GROOVE** — When you repeat the same route, circuit, or type of road you've driven before, you get +1 effect on all Manoeuvre rolls. You learn fast and you remember everything.
-- **RABBIT** — When someone is chasing you, they must always roll at one position worse than they otherwise would (controlled becomes risky, risky becomes desperate).
+- **RABBIT** — When someone is chasing you, your position is always one greater than it would otherwise be (desperate becomes risky, risky becomes controlled, controlled becomes a fortune roll).
 - **DRAFTING** — When you're running in a pack, you're in your element. When another vehicle is directly ahead of you, you get +1d on Manoeuvre rolls to overtake, follow, or stay with them.
 - **BLINDSPOT** — You have an instinct for when you're being followed or watched from a vehicle. You always know, without rolling, whether you have a tail. Acting on that knowledge still requires a roll.
 - **MECHANICAL SYMPATHY** — You can always tell what a vehicle can and can't do just by driving it for a minute. You never overestimate a car's limits, and you never need to roll to understand what it's capable of — only to push it there.
@@ -48,7 +48,7 @@ You get **TINKER** as your starting Action.
 
 Your special armor protects you against equipment failure, sabotage, and anything going wrong with a vehicle or machine under your care.
 
-**Choose one special ability:**
+**Choose two special abilities:**
 
 - **JURY RIG** — You can tick a segment on a repair or prep clock with **limited** effect just by looking at something and describing what you'd do. Doing it for real takes time and tools.
 - **BOOSTED** — When you spend a downtime action working on a vehicle, tick two extra segments on any prep or improvement clock for that vehicle.
@@ -66,7 +66,7 @@ You get **SKIRMISH** as your starting Action.
 
 Your special armor protects you against physical harm in a brawl, fight, or standoff.
 
-**Choose one special ability:**
+**Choose two special abilities:**
 
 - **OVERWHELMING** — Mark 1–4 stress to add that many dice when using violence or the threat of it. Each stress mark adds +1d.
 - **HARD TARGET** — When someone attacks you, you may spend your special armor to force them to reroll and take the lower result.
@@ -86,7 +86,7 @@ You get **CONSORT** as your starting Action.
 
 Your special armor protects you against being compromised, pressured, or caught in a lie.
 
-**Choose one special ability:**
+**Choose two special abilities:**
 
 - **SMOOTH** — When you talk your way out of trouble, everyone who was suspicious of you forgets their suspicion until they have specific new evidence.
 - **WELL CONNECTED** — Once per session, you may declare that you know someone useful in the current situation. They owe you, or you have something on them.

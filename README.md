@@ -221,6 +221,21 @@ This reflects the truth of group work: it's only as strong as the weakest link i
 
 ---
 
+## FLASHBACKS
+
+At any point during a score or scene, any player may call for a **flashback** to establish something their character did before the current moment: a bribe paid, a route scouted, a contact warned, a piece of kit hidden somewhere useful.
+
+**The GM sets the stress cost:**
+
+- **0 stress** — It's completely plausible and costs nothing. A Driver who's raced in Paris before would obviously have clocked the bottleneck at the Porte de Vincennes. A Mechanic would obviously have checked the tyre pressures before the start.
+- **1 stress** — It required some effort, preparation, or a favour called in. You bribed the parking attendant. You sweet-talked someone at the prefecture. You stayed up until three in the morning studying the route.
+- **2 stress** — It was genuinely difficult, risky, or costly. You had to break in somewhere first. You burned a contact. You pushed the car harder than was wise on a reconnaissance run.
+
+If the flashback involves something *uncertain* — the bribed gendarme who may or may not come through, the trap that may or may not spring — the GM calls for a roll. That roll happens now, in the present moment, as the situation resolves. The stress has already been paid for what you did. The roll determines whether it worked.
+in the flashback, but the results and consequences typically play out now.
+
+---
+
 ## VEHICLES & THE GARAGE
 
 The crew shares a **garage in Bagnolet**, on the eastern edge of Paris. This is your base, your workshop, and the only place in the city that's really yours.

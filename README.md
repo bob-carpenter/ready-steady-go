@@ -39,14 +39,16 @@ de Triopmphe on the northwest side of Paris.  Bagnolet is a village
 just outside the border to the east.
 
 ![Paris Monumental et
-Métropolitan](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Robelin%2C_Paris_monumental_et_métropolitain%2C_1911_-_David_Rumsey.jpg/1280px-Robelin%2C_Paris_monumental_et_métropolitain%2C_1911_-_David_Rumsey.jpg)
+Métropolitan]https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Robelin%2C_Paris_monumental_et_métropolitain%2C_1911_-_David_Rumsey.jpg/3840px-Robelin%2C_Paris_monumental_et_métropolitain%2C_1911_-_David_Rumsey.jpg)
 
-I have used this online on Roll20 and also printed it out on foam core
-at Staples in 24" x 36" (roughly 0.65 x 1 meter).  Here is the link
-to the Wikicommons page with a description and links to higher
-resolution versions:
+Here is the link to the Wikicommons page with a description and links
+to very high resolution versions:
 
 [Wikicommons page for Paris map](https://commons.wikimedia.org/wiki/File:Robelin,_Paris_monumental_et_métropolitain,_1911_-_David_Rumsey.jpg)
+
+I have used this online on Roll20 and also printed it out on foam core
+at Staples at 24" x 36" (roughly 0.65 x 1 meter), but 20" x 30" or
+even a bit smaller would have also worked.
 
 ## THE PLAYBOOKS
 

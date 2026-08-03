@@ -39,7 +39,7 @@ de Triopmphe on the northwest side of Paris.  Bagnolet is a village
 just outside the border to the east.
 
 ![Paris Monumental et
-Métropolitan]https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Robelin%2C_Paris_monumental_et_métropolitain%2C_1911_-_David_Rumsey.jpg/3840px-Robelin%2C_Paris_monumental_et_métropolitain%2C_1911_-_David_Rumsey.jpg)
+Métropolitan](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Robelin%2C_Paris_monumental_et_métropolitain%2C_1911_-_David_Rumsey.jpg/3840px-Robelin%2C_Paris_monumental_et_métropolitain%2C_1911_-_David_Rumsey.jpg)
 
 Here is the link to the Wikicommons page with a description and links
 to very high resolution versions:

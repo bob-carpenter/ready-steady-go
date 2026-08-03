@@ -1,5 +1,5 @@
 # READY, STEADY, GO!
-### A Forged in the Dark Game of Fists, Fast Cars, and Faster Talk
+### A Forged in the Dark Game of Fast Cars and Fast Talk
 #### Paris, May 1968
 
 #### Bob Carpenter

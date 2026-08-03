@@ -2,18 +2,30 @@
 ### A Forged in the Dark Game of Fists, Fast Cars, and Faster Talk
 #### Paris, May 1968
 
-#### Bob Carpenter (with help from Claude)
+#### Bob Carpenter
 
 ---
 
 ![The Garage at Bagnolet](garage-des-fetes.jpg)
 
 
-The streets are burning. Students are throwing paving stones at riot police in the Latin Quarter.
+It's early May, 1968, and under cover of night, the English team has
+rolled into Bagnolet in a transit van towing the best that British
+motoring has to offer.  They are gathered in Paris to compete in
+legendary illegal road race, **Le Roi de Paris** [The King of Paris].
 
-De Gaulle is nervous. And somewhere in this chaos, the English team has rolled into Bagnolet in a transit van towing their best car, looking for glory — and whatever else falls their way.
+Tomorrow night is the qualifying race for starting positions.  The
+teams are to gather around the Palmarium (greenhouse) in the Bois de
+Boulogne (park) at midnight.  The race is thrice 'round the Arc de
+Triomphe and back.  As we pan in, there's a huge crowd of young
+Parisians in their finest mod, hippie, or student attire, playing
+music, dancing, and admiring the cars under the streetlights before
+the race.
 
-The **Roi de Paris** [King of Paris] illegal circuit race is the prize everyone can see. What nobody knows yet is that the real prize has been hidden in this city since the war.
+Meanwhile, in greater Paris, civil unrest is on the rise.  De Gaulle
+is nervous and the gendarmerie is on high alert. What the English team
+does not yet know is that the real chase will not be for the checkered
+flag, but for a prize hidden since the war.
 
 ---
 

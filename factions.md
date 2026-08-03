@@ -25,7 +25,7 @@ Velvet blazer, silk scarf, cigarette permanently in the corner of his mouth. Dri
 **Jean-Baptiste Marchand** — *Intense, Superstitious, Gifted*
 Aviator sunglasses, oil-stained overalls, a rabbit's foot wired to the Citroën's gear stick. Where Lucien coasts, Jean-Baptiste fights. He talks to his DS21 during a race, sometimes argues with it. He is not joking. The car wins those arguments often enough that no one laughs anymore. He has a temper that appears without warning and disappears just as fast.
 
-**Colette Voss** — *Sharp, Watchful, Mercurial*
+**Colette Anges** — *Sharp, Watchful, Mercurial*
 Half-French, half-Swiss. Slim leather jacket, wide-leg trousers, dark eyes that miss nothing. Officially she is the team's logistics coordinator. In practice she is the person who knows where everything is, who everyone owes, and what is actually going on. She drove rally cars in her early twenties and can still read a road better than most. She didn't stop racing because she wasn't good enough. She stopped for reasons she has never explained.
 
 ---
@@ -116,7 +116,7 @@ A tabac on the Rue de la Roquette, just east of Bastille. Red hair gone silver a
 *Luminous, Perceptive, Guarded*
 A jazz bar on the Rue de la Huchette in the 5th, Tuesday through Saturday, two sets a night. Early twenties, voice like smoke and brass, the kind of face that makes people stop walking. Sylvie watches everything from the stage and remembers all of it. She grew up in the 13th, she has a degree in philosophy she never mentions, and she is considerably more politically engaged than she lets on. She has friends among the student protesters and uses the bar as a quiet message drop when she needs to. She is careful about who she trusts and has reasons for that.
 
-**Dr. Hélène Voss — The Physicist**
+**Dr. Hélène Ricard — The Physicist**
 *Exacting, Restless, Privately Funny*
 A junior researcher at the ENS Physics department on the Rue Lhomond. Late thirties, wire-rimmed glasses, hair that lost its argument with her this morning. Hélène works on signals theory and cryptography and would be irritated to be described as someone who helps people with Enigma machines, but that is what happened and she was very good at it. She has absolutely no interest in illegal racing but a considerable interest in unsolved problems of any kind. If you present something to her as a puzzle she cannot help herself.
 

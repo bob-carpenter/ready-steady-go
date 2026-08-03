@@ -6,13 +6,15 @@
 
 ---
 
+## Le Rois de Paris
+
 ![The Garage at Bagnolet](garage-des-fetes.jpg)
 
 
 It's early May, 1968, and under cover of night, the English team has
 rolled into Bagnolet in a transit van towing the best that British
 motoring has to offer.  They are gathered in Paris to compete in
-legendary illegal road race, **Le Roi de Paris** [The King of Paris].
+legendary illegal road race, *Le Roi de Paris* [The King of Paris].
 
 Tomorrow night is the qualifying race for starting positions.  The
 teams are to gather around the Palmarium (greenhouse) in the Bois de
